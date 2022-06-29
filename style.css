@@ -16,17 +16,22 @@ caption{
   margin: auto;
 }
 
+th{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
 table, td, tr{
 	border-bottom: 1px solid #DDDDDD;
 	border-width: 0.8px;
 }
 
-tr:nth-child(4){
-	border-bottom: 2px solid #CCCCCC;
+tr:nth-child(5){
+	border-top: 2px solid #CCCCCC;
 }
 
-tr:nth-child(16){
-	border-bottom: 2px solid #CCCCCC;
+tr:nth-child(17){
+	border-top: 3px solid #CCCCCC;
 }
 
 table tr td:nth-child(1){
