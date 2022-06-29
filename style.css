@@ -4,7 +4,7 @@ body {
 
 table{
   border: 1px solid #DDDDDD;
-  margin: auto;
+  border-collapse: collapse;
 }
 
 caption{
@@ -15,14 +15,13 @@ caption{
   margin: auto;
 }
 
-table, td, tr {
+table, td, tr{
 	border-bottom: 1px solid #DDDDDD;
-	border-width: 0.5px;
-	border-collapse: collapse;
+	border-width: 0.1px;
 }
 
 tr:nth-child(4){
-	border-bottom: 3px solid #CCCCCC;
+	border-bottom: 2px solid #CCCCCC;
 }
 
 tr:nth-child(16){
