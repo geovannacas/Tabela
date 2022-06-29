@@ -18,7 +18,7 @@ caption{
 
 table, td, tr{
 	border-bottom: 1px solid #DDDDDD;
-	border-width: 0.1px;
+	border-width: 0.8px;
 }
 
 tr:nth-child(4){
