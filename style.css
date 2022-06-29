@@ -4,7 +4,6 @@ body {
 
 table{
   border: 1px solid #DDDDDD;
-  border-collapse: collapse;
   margin: auto;
 }
 
@@ -22,16 +21,16 @@ th{
 }
 
 table, td, tr{
-	border-bottom: 1px solid #DDDDDD;
-	border-width: 0.8px;
+	border-collapse: collapse;
+	border-bottom: 0.8px solid #DDDDDD;
 }
 
-tr:nth-child(5){
-	border-top: 2px solid #CCCCCC;
+tr:nth-child(6){
+	border-top: 1.8px solid #CCCCCC;
 }
 
-tr:nth-child(17){
-	border-top: 3px solid #CCCCCC;
+tr:nth-child(18){
+	border-top: 1.8px solid #CCCCCC;
 }
 
 table tr td:nth-child(1){
