@@ -5,6 +5,7 @@ body {
 table{
   border: 1px solid #DDDDDD;
   border-collapse: collapse;
+  margin: auto;
 }
 
 caption{
