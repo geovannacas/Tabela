@@ -23,12 +23,10 @@ table, td, tr {
 
 tr:nth-child(4){
 	border-bottom: 3px solid #CCCCCC;
-	width: 2px;
 }
 
 tr:nth-child(16){
 	border-bottom: 2px solid #CCCCCC;
-	width: 3px;
 }
 
 table tr td:nth-child(1){
